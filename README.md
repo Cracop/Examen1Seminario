@@ -24,11 +24,11 @@ Además de lo ya mencionado, también se puede escribir  todo aquello que consid
 
 Cuando colocamos nuestro código allá afuera, no sólo damos la oportunidad de que las personas vean nuestro proyecto, sino que también permitimos que la gente pueda contribuir a nuestro proyecto. 
 
-# ¿Cómo documentar?
-
-La manera de documentar se hace en formato  `markdown` en un archivo `README.md`. La mayoría de los repositorios en línea son capaces de leer los archivos con terminación `.md` y presentarlos como  HTML de tal forma que se presente la información de una forma limpia y profesional. 
-
 ## ![diagrama](/images/DiagramaExamen.png)
+
+## ¿Cómo documentar?
+
+La manera de documentar se hace en formato `markdown` en un archivo `README.md`. La mayoría de los repositorios en línea son capaces de leer los archivos con terminación `.md` y presentarlos como HTML de tal forma que se presente la información de una forma limpia y profesional.
 
 ## Ejemplos de sintaxis
 
