@@ -10,19 +10,19 @@ Sin embargo, la documentación no solo sirve para aquellas personas que se encue
 
 Al momento de documentar,  queremos presentar un panorama general de nuestro proyecto. Queremos que la gente entienda de que se trata antes de que le expliquemos funciones. 
 
-El orden en el que debemos explicar nuestro proyecto, debe ser:
+El orden en el que debemos explicar nuestro proyecto debe ser:
 
-1. La razón de nuestro proyecto. El porque de lo que hicimos y que beneficio tendría la gente de utilizarlo. 
+1. La razón de nuestro proyecto. El porqué de lo que hicimos y qué beneficio tendría la gente de utilizarlo. 
 
-2. La manera en que funciona. Sin entrar en específicos, como es que funciona así como los pasos que se deben seguir para su uso correcto. 
+2. La manera en que funciona. Sin entrar en específicos, cómo es que funciona, así como los pasos que se deben seguir para su uso correcto. 
 
-3. La información técnica. Que se necesita, como instalarlo y ejecutarlo.
+3. La información técnica. Qué se necesita, cómo instalarlo y ejecutarlo.
 
 Además de lo ya mencionado, también se puede escribir  todo aquello que consideremos que puede ser útil para una persona que se encuentre con nuestro proyecto por primera vez. 
 
 # Ventajas de la documentación
 
-Cuando colocamos nuestro código allá afuera, no solo damos la oportunidad de que las personas vean nuestro proyecto, sino que también permitimos que la gente pueda contribuir a nuestro proyecto. 
+Cuando colocamos nuestro código allá afuera, no sólo damos la oportunidad de que las personas vean nuestro proyecto, sino que también permitimos que la gente pueda contribuir a nuestro proyecto. 
 
 # ¿Cómo documentar?
 
