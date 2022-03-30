@@ -47,7 +47,7 @@ Markdown se escribe con puro texto plano, todo el formato se le da por medio de 
 **Letras en negritas**
 ```
 
-Para más ejemplos, los puedes checar en ésta [página](https://www.markdownguide.org/basic-syntax/) 
+Para más ejemplos, los puedes checar en esta [página](https://www.markdownguide.org/basic-syntax/) 
 
 # Bibliografía
 
